@@ -1,3 +1,3 @@
 Please download "B.mat" form the following link:
-<https://drive.google.com/drive/folders/1E1aorASNu2Lk3iK6M--bAU5NwS8Z69Jc?usp=drive_link>,
+<https://drive.google.com/drive/folders/1diSrxyuHwQ2bOfe_I4njDgjde-26iQZI?usp=sharing>,
 and put the file in the "HiSun demo" folder.
